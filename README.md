@@ -1,10 +1,10 @@
 # PlayerVsPlayer Mindustry Mod
 
-This is one out of three respositories: [PlayerVsPlayer Mindustry Server Plugin](https://github.com), [PlayerVsPlayer Mindustry Client Mod](https://github.com) and PlayerVsPlayer Smart Contract.
+This is one out of three respositories: [PlayerVsPlayer Mindustry Server Plugin](https://github.com/0xPuddi/PlayerVsPlayer-Mindustry-Server-Plugin), [PlayerVsPlayer Mindustry Client Mod](https://github.com/PlayerVsPlayer-Mindustry-Client-Mod) and PlayerVsPlayer Smart Contract.
 
 This project offers the possibility for players to connect on PvP Mindustry matches and to bet on them
 
-Metamask does not yet support ERC-681: Project development is paused.
+[Metamask does not yet support ERC-681](https://github.com/MetaMask/metamask-mobile/issues/8308): Project development is paused.
 
 
 ## PlayerVsPlayer Smart Contract Documentation
