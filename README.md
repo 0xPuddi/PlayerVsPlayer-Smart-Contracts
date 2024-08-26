@@ -1,6 +1,6 @@
 # PlayerVsPlayer Mindustry Mod
 
-This is one out of three respositories: [PlayerVsPlayer Mindustry Server Plugin](https://github.com/0xPuddi/PlayerVsPlayer-Mindustry-Server-Plugin), [PlayerVsPlayer Mindustry Client Mod](https://github.com/PlayerVsPlayer-Mindustry-Client-Mod) and PlayerVsPlayer Smart Contract.
+This is one out of three respositories: [PlayerVsPlayer Mindustry Server Plugin](https://github.com/0xPuddi/PlayerVsPlayer-Mindustry-Server-Plugin), [PlayerVsPlayer Mindustry Client Mod](https://github.com/0xPuddi/PlayerVsPlayer-Mindustry-Client-Mod) and PlayerVsPlayer Smart Contracts.
 
 This project offers the possibility for players to connect on PvP Mindustry matches and to bet on them
 
